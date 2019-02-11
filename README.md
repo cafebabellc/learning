@@ -1,6 +1,5 @@
-# Host site content built from cafebabellc repository to take adavantage of Github site hosting service
-# To match learning site path
- added in package.json <b>  
-  "homepage": "/learning/",</b>
- added in index.html
-  <base href="%PUBLIC_URL%/">
+# Host site content built from cafebabellc repository
+This is to take adavantage of Github site hosting service
+# In order to match /learning site path
+ added in package.json => `"homepage": "/learning/"`,</br>
+ added in index.html => `<base href="%PUBLIC_URL%/">`
